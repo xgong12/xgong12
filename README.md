@@ -1,4 +1,4 @@
-# Hi, I'm Sherry Gong 👋
+# Hi, I'm Sherry Gong
 
 ## Selected Projects
 
