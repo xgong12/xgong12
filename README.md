@@ -2,7 +2,7 @@
 
 ## Selected Projects
 
-## [PolicyCompiler](https://github.com/xgong12/policycompiler)
+### [PolicyCompiler](https://github.com/xgong12/policycompiler)
 
 - Fine-tuned Qwen3 models using LoRA on Nebius AI Cloud to compile natural-language policies into structured JSON rules for deterministic policy enforcement.
   
