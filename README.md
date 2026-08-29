@@ -17,6 +17,6 @@
 
 ### [Agentified OpenCaptchaWorld Benchmark](https://github.com/gmsh/agentified-opencaptchaworld)
 
-- Built a CAPTCHA-style benchmark for evaluating LLM agents' visual reasoning and interaction capabilities.
+- Agentified a CAPTCHA-style benchmark for evaluating LLM agents' visual reasoning and interaction capabilities.
 
 - Achieved **3rd Place** in the **Web Agent Track** of the **2026 Berkeley RDI AgentX-AgentBeats Competition Phase I**.
