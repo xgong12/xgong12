@@ -6,7 +6,7 @@
 
 - Fine-tuned Qwen3 models using LoRA on Nebius AI Cloud to compile natural-language policies into structured JSON rules for deterministic policy enforcement.
   
-- Received **Awesome Serverless Award** in the 2026 Nebius Serverless AI Builders Challenge.
+- Received **Awesome Serverless Award** in the **2026 Nebius Serverless AI Builders Challenge**.
 
 
 ### [CAReful: A Reliable In-Car Assistant Agent](https://github.com/gmsh/car-bench-exp-agent)
